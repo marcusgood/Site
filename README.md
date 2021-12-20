@@ -1,2 +1,2 @@
 # Site
-My personal site 
+My personal site, Winter Break Project 2021, pre-computer engineering start
